@@ -1,0 +1,2 @@
+# Dominator
+Dominator Algorithm
